@@ -12,6 +12,13 @@ gem 'rails', '~> 5.1.6'
 # bootstrap-sass 3.3.1 added 180424
 gem 'bootstrap-sass', '3.3.1'
 
+# sprockets 2.11.0 added 180426
+gem 'sprockets', '3.7.1'
+
+# device 3.4.1 added 180426
+gem 'devise', '4.4.3'
+
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
