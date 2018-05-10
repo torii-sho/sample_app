@@ -18,6 +18,10 @@ gem 'sprockets', '3.7.1'
 # device 3.4.1 added 180426
 gem 'devise', '4.4.3'
 
+gem 'jquery-rails', '4.3.3'
+gem 'jquery-ui-rails', '6.0.1'
+
+
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
